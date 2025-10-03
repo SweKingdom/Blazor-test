@@ -1,29 +1,50 @@
-﻿@page "/counter"
+﻿@page "/calcylator"
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Calcylator</PageTitle>
 
-<h1>Counter</h1>
+<h1>Miniräknare</h1>
 
-<p role="status">Current count: @currentCount</p>
+<p>
+    <input type="number" @bind="number1" placeholder="Första talet"/>
+    <input type="number" @bind="number2" placeholder="Andra talet"/>
+</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<p>
+    <button class="btn btn-primary" @onclick="Addition">+</button>
+    <button class="btn btn-primary" @onclick="Subtract">-</button>
+    <button class="btn btn-primary" @onclick="Multiplikation">*</button>
+    <button class="btn btn-primary" @onclick="Divide">/</button>
+</p>
+
+<p>Resultat: @result</p>
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    private double number1;
+    private double number2;
+    private double result;
+
+
+    private void Addition()
     {
-        currentCount++;
+        result = number1 + number2; 
     }
 
-    private int Addition(int x, int y)
+    private void Subtract()
     {
-        return x + y; 
+        result = number1 - number2;
     }
 
-    private int Multiplikation(int x, int y)
+    private void Multiplikation()
     {
-        return x * y;
+        result = number1 * number2;
     }
+
+    private void Divide()
+    {
+        result = number1 / number2;
+    }
+
 }
 

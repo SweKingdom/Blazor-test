@@ -1023,9 +1023,6 @@ C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\co
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\37z04rl2ie-tptq2av103.gz
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\rfquedvwn2-lfu7j35m59.gz
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\07jgs14x9b-oyz0vx2fzb.gz
-C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\z4nfu4l7hl-n2sioe4yjm.gz
-C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\6yfc49io4u-50f3zydn3m.gz
-C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\ze7vl5o02k-bh8ovwy89c.gz
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\staticwebassets.development.json
@@ -1036,3 +1033,7 @@ C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.dl
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\refint\BlazorApp2.dll
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.pdb
 C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\ref\BlazorApp2.dll
+C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.sourcelink.json
+C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\z4nfu4l7hl-vu29462ztc.gz
+C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\6yfc49io4u-jk1loku7k8.gz
+C:\Users\phili\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\ze7vl5o02k-oqp4jx9rhy.gz
